@@ -1,6 +1,6 @@
 Olá, Seja Bem-Vindo(a)! 👋
 
-Me chamo Victoria, sou estudante do 3° período de Análise e Desenvolvimento de Sistemas. Estou buscando opotunidades para aprimorar minhas habilidades e contribuir para projetos significativos.
+Me chamo Victoria, sou estudante do 3° período de Análise e Desenvolvimento de Sistemas. Estou buscando oportunidades para aprimorar minhas habilidades e contribuir para projetos significativos.
 
 - 👀 Possuo interesses em Desenvolvimento de Software Fullstack e Ciência de Dados.
 - 🌱 Atualmente estou cursando Programação em Python no SENAC-RJ
