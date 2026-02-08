@@ -2,9 +2,9 @@
 
 Olá, Seja Bem-Vindo(a)! 👋
 
-Me chamo Victoria, sou estudante do último período de Análise e Desenvolvimento de Sistemas. Estou buscando oportunidades para aprimorar minhas habilidades e contribuir para projetos significativos.
+Me chamo Victoria, sou formada em Análise e Desenvolvimento de Sistemas. Atualmente trabalho como Analista de Suporte Jr. e estou cursando Pós Graduação em Ciência de Dados e Inteligência Artificial, estou sempre buscando oportunidades para aprimorar minhas habilidades e contribuir para projetos significativos.
 
-- 👀 Possuo interesses em Desenvolvimento de Software Fullstack e Análise de Dados.
+- 👀 Minhas áreas de interesse são: Desenvolvimento Fullstack, Desenvolvimento de App's e Dados.
 - 🎞️ Sou viciada em filmes e séries de ficção científica.
 - 🌱 Meu último projeto foi um mobile em React Native.
 
